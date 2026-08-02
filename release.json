@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
-  "apkUrl": "https://github.com/clarkyeaah/xpense-releases/releases/download/v1.0.1/xpense-1.0.1.apk",
-  "sizeBytes": 51447407,
-  "notes": "Join by expiring setup code instead of the household id, generated on your phone. Smaller download (49 MB, down from 113 MB)."
+  "version": "1.0.2",
+  "apkUrl": "https://github.com/clarkyeaah/xpense-releases/releases/download/v1.0.2/xpense-1.0.2.apk",
+  "sizeBytes": 51450215,
+  "notes": "Settings now shows your version and the running bundle, with a Check for updates button. Joining uses an expiring code generated on your own phone."
 }
