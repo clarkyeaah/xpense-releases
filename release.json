@@ -1,6 +1,6 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.1",
   "apkUrl": "https://github.com/clarkyeaah/xpense-releases/releases/download/v1.0.1/xpense-1.0.1.apk",
   "sizeBytes": 51437763,
-  "notes": "TEMPORARY - validating the native update path. Reverted immediately."
+  "notes": "Much smaller download — 49 MB, down from 113 MB. The share sheet gains an Install app QR for a phone that doesn't have Expenses yet."
 }
