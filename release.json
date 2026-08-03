@@ -1,6 +1,6 @@
 {
-  "version": "1.0.2",
-  "apkUrl": "https://github.com/clarkyeaah/xpense-releases/releases/download/v1.0.2/xpense-1.0.2.apk",
-  "sizeBytes": 51450215,
-  "notes": "Settings now shows your version and the running bundle, with a Check for updates button. Joining uses an expiring code generated on your own phone."
+  "version": "1.0.3",
+  "apkUrl": "https://github.com/clarkyeaah/xpense-releases/releases/download/v1.0.3/xpense-1.0.3.apk",
+  "sizeBytes": 51480363,
+  "notes": "Fixes a bug where a phone could quietly lose access to the shared ledger after sitting idle. Category edits are now a draft until you press Save. New icon-tile category picker, a warning when syncing has actually stopped, and a tidier Summary."
 }
