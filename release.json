@@ -1,6 +1,6 @@
 {
-  "version": "1.0.3",
-  "apkUrl": "https://github.com/clarkyeaah/xpense-releases/releases/download/v1.0.3/xpense-1.0.3.apk",
-  "sizeBytes": 51480363,
-  "notes": "Fixes a bug where a phone could quietly lose access to the shared ledger after sitting idle. Category edits are now a draft until you press Save. New icon-tile category picker, a warning when syncing has actually stopped, and a tidier Summary."
+  "version": "1.0.4",
+  "apkUrl": "https://github.com/clarkyeaah/xpense-releases/releases/download/v1.0.4/xpense-1.0.4.apk",
+  "sizeBytes": 51720633,
+  "notes": "Home-screen widgets — three sizes, including a scrollable list of this month's entries. Tap the + to log without opening the app. Also fixes a stale duplicate-name warning, caps amounts to what the ledger can store, and lists both phones with their versions in Settings."
 }
