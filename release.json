@@ -1,6 +1,6 @@
 {
-  "version": "1.0.4",
-  "apkUrl": "https://github.com/clarkyeaah/xpense-releases/releases/download/v1.0.4/xpense-1.0.4.apk",
-  "sizeBytes": 51720633,
-  "notes": "Home-screen widgets — three sizes, including a scrollable list of this month's entries. Tap the + to log without opening the app. Also fixes a stale duplicate-name warning, caps amounts to what the ledger can store, and lists both phones with their versions in Settings."
+  "version": "1.0.6",
+  "apkUrl": "https://github.com/clarkyeaah/xpense-releases/releases/download/v1.0.6/xpense-1.0.6.apk",
+  "sizeBytes": 52200268,
+  "notes": "A shared calendar. Events, medical appointments and credit card due dates, with a month grid you can swipe. Enter a card's cutoff and due day once and every future date is worked out — landing on a weekend or a Philippine holiday, it moves to the last banking day before it. Reminders are yours alone; nudges notify the other phone. Plus a calendar widget."
 }
