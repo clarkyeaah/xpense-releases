@@ -1,6 +1,6 @@
 {
-  "version": "1.0.7",
-  "apkUrl": "https://github.com/clarkyeaah/xpense-releases/releases/download/v1.0.7/xpense-1.0.7.apk",
-  "sizeBytes": 52201980,
-  "notes": "A shared calendar. Events, medical appointments and credit card due dates on a month grid you can swipe. Enter a card's cutoff and due day once and every future date is worked out; landing on a weekend or a Philippine holiday, it moves to the last banking day before it. Reminders are yours alone; nudges notify the other phone. Plus a scrolling calendar widget showing a month of bills, and push notifications that work."
+  "version": "1.0.8",
+  "apkUrl": "https://github.com/clarkyeaah/xpense-releases/releases/download/v1.0.8/xpense-1.0.8.apk",
+  "sizeBytes": 51512156,
+  "notes": "Midnight theme with real frosted glass, haptic touch feedback, and the new Aurora identity built in. Install over the current app - do not uninstall first."
 }
