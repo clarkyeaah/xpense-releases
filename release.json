@@ -1,6 +1,6 @@
 {
-  "version": "1.0.8",
-  "apkUrl": "https://github.com/clarkyeaah/xpense-releases/releases/download/v1.0.8/xpense-1.0.8.apk",
-  "sizeBytes": 51512156,
-  "notes": "Midnight theme with real frosted glass, haptic touch feedback, and the new Aurora identity built in. Install over the current app - do not uninstall first."
+  "version": "1.0.9",
+  "apkUrl": "https://github.com/clarkyeaah/xpense-releases/releases/download/v1.0.9/xpense-1.0.9.apk",
+  "sizeBytes": 52830765,
+  "notes": "Tap a credit card to save it - the number is encrypted and only your phones can reveal it. Tag spends to a card and see per-card totals. Optional fingerprint lock. Fresh typography and two new home-screen widgets. Install over the current app - do not uninstall first."
 }
