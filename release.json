@@ -1,6 +1,6 @@
 {
-  "version": "1.0.9",
-  "apkUrl": "https://github.com/clarkyeaah/xpense-releases/releases/download/v1.0.9/xpense-1.0.9.apk",
-  "sizeBytes": 52830765,
-  "notes": "Tap a credit card to save it - the number is encrypted and only your phones can reveal it. Tag spends to a card and see per-card totals. Optional fingerprint lock. Fresh typography and two new home-screen widgets. Install over the current app - do not uninstall first."
+  "version": "1.0.10",
+  "apkUrl": "https://github.com/clarkyeaah/xpense-releases/releases/download/v1.0.10/xpense-1.0.10.apk",
+  "sizeBytes": 53040916,
+  "notes": "Reminders now fire on time (exact alarms). New: mirror card due dates and events into your Google Calendar from Settings > Calendar, and Phone setup now shows real battery and alarm status. Install over the current app - do not uninstall first."
 }
